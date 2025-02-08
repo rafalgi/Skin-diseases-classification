@@ -1,4 +1,3 @@
-Sure, I can help you create a README file for your Skin Diseases Classification project. Here is a draft based on the information you provided:
 
 ---
 
