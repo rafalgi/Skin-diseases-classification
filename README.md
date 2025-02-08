@@ -67,6 +67,13 @@ The models are trained using the training dataset and evaluated using validation
 
 The results demonstrate the effectiveness of using a combination of custom CNN and VGG16 architectures in classifying skin diseases with high accuracy. The detailed performance highlights and visualizations are provided in the notebook.
 
+## How the model works in gradio library
+
+![Zrzut ekranu 2025-02-01 222336](https://github.com/user-attachments/assets/4ab91ea0-19b8-43a4-8fba-1a16f9b13182)
+
+![Zrzut ekranu 2025-02-01 222254](https://github.com/user-attachments/assets/6f47f658-e097-468c-8d24-66a16d81b8ee)
+
+
 ## Installation and Usage
 
 1. Clone the repository:
@@ -96,11 +103,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - The pre-trained VGG16 model is sourced from the Keras library.
 - The datasets used in this project are publicly available and sourced from various medical image repositories.
 
-## How the model works in gradio library
 
-![Zrzut ekranu 2025-02-01 222336](https://github.com/user-attachments/assets/4ab91ea0-19b8-43a4-8fba-1a16f9b13182)
-
-![Zrzut ekranu 2025-02-01 222254](https://github.com/user-attachments/assets/6f47f658-e097-468c-8d24-66a16d81b8ee)
 
 ---
 
